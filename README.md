@@ -1,4 +1,4 @@
-# Airlines Booking System
+# Airlines Booking System using C++
 
 This Ticket Booking System is a console-based C++ application designed to simulate an airline ticket booking system. It allows users to register their details, book flights to various destinations, and generate tickets. The system features a user-friendly menu interface, making it simple to navigate between functionalities like customer registration, flight booking, and ticket generation. 
 
